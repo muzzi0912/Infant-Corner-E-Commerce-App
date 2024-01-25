@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087466781469",
+    "project_id": "infants-corners",
+    "storage_bucket": "infants-corners.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087466781469:android:c0815078735153378b7ff4",
+        "android_client_info": {
+          "package_name": "com.example.infant_corner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGBFlAbsSJ7kn3Qv7St9E6QugPc0h6rDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
